@@ -1,0 +1,23 @@
+nav.navbar {
+  height: 7.5rem;
+}
+.navbar-brand {
+  font-family: inter, sans-serif;
+  font-size: 2rem;
+  color: #fff;
+}
+.navbar-brand img {
+  height: 6rem;
+  width: 8rem;
+}
+ul.navbar-nav {
+  position: absolute;
+  right: 5rem;
+  font-size: 1rem;
+}
+
+li.nav-item {
+  margin-right: 2rem;
+  font-size: 1.2rem;
+  color: #fff;
+}
